@@ -15,7 +15,7 @@
  
 Пример .csv файла: 
 
-id;city;region;district;population;foundation 
+id;city;region;district;population;foundation <br>
 1;Адыгейск;Адыгея;Южный;12248;1973 
 2;Майкоп;Адыгея;Южный;144246;1857 
 3;Горно-Алтайск;Алтай;Сибирский;56928;1830 
