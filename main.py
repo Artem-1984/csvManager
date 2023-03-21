@@ -27,7 +27,7 @@ def main():
             list-yi.add_element('data,csv')
             file.write_line('data.csv',list)
             print("запись завершена")
-        if
+        if print()
 
 
     except Exception as ex:
