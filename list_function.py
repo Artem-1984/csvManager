@@ -8,4 +8,3 @@ def search_in_file(path, category, element):
         if (list[category]==element):
             return list
         return
-
